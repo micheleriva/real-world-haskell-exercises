@@ -18,7 +18,7 @@ $ make run 01
 
 # Index
 
-[01](/src/01/main.hs)
+[01](/src/01/main.hs) [02](/src/02/main.hs)
 
 # License
 [MIT](/LICENSE.md)
