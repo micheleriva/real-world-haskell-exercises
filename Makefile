@@ -7,3 +7,6 @@ run 01:
 
 run 02:
 	cd ./src/02 && ghci
+
+run 03:
+		cd ./src/03 && ghci

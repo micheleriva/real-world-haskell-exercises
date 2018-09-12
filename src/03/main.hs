@@ -1,0 +1,1 @@
+lastButOne = \l -> fst . last $ zip l (tail l)
